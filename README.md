@@ -2,7 +2,7 @@
 
 A fundamental Twitter Web3 clone build on smart contracts via Solidity, React, and HardHat.
 
-### Fill environment variables as in `env.example` and save as `.env` to the same path as the example one
+### Fill environment variables as in `smart-contract/env.example` and save as `.env` to the same path as the example one
 
 Get the necessary credentials on https://infura.io/
 

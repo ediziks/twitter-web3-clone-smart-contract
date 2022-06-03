@@ -14,7 +14,7 @@ PRIVATE_KEY=<YOUR_PRIVATE_KEY>
 
 ## Add TwitterContractAddress to config.js
 
-After obtaining a deployed address when deploying the smart contract, set TwitterContractAddress within app/src/utils/config.js equal to the new deployed address.
+After obtaining a deployed address when deploying the smart contract as shown in the `smart-contract` insturctions, set TwitterContractAddress within app/src/utils/config.js equal to the new deployed address.
 
 ```bash
 export const TwitterContractAddress = <YOUR ADDRESS>

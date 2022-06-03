@@ -1,6 +1,6 @@
 # twitter-web3-clone-smart-contract
 
-A fundamental Twitter Web3 clone build on smart contracts via Solidity, React, and HardHat.
+A fundamental Twitter Web3 clone build on smart contracts via Solidity, React, HardHat, and Docker.
 
 ### Fill environment variables as in `smart-contract/env.example` and save as `.env` to the same path as the example one
 
